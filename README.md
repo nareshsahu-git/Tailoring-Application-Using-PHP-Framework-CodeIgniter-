@@ -5,5 +5,5 @@ Technologies used:
 HTML,
 CSS,
 Bootstrap,
-PHP
+PHP Framework CodeIgniter
 
